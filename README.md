@@ -24,10 +24,6 @@ Check out the live version here: https://my-portfolio-rho-two-87.vercel.app/
   - **Projects** – Selected works with live links & code
   - **Contact Me** – Socials and ways to connect
 
-## 📸 Preview
-
-![Portfolio Screenshot](./public/screenshot.png)
-
 ## 📦 Installation
 
 ```bash
