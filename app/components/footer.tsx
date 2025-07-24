@@ -101,9 +101,15 @@ export function Footer() {
           </div>
         </div>
 
-        {/* //Bottom Bar */}
-        
-      </div>
+      
+        {/* <div className="border-t border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center">
+          <div className="flex items-center gap-2 text-gray-400 mb-4 md:mb-0">
+            <span>© {currentYear} Abishek Salaria</span>
+          </div>
+          <div className="text-gray-400 text-sm">Built with Next.js, TypeScript & Tailwind CSS</div>
+        </div> */}
+
+      </div>  
     </footer>
   )
 }

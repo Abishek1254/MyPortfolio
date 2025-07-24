@@ -7,13 +7,13 @@ import Link from "next/link"
 export function FeaturedProjects() {
   const projects = [
     {
-      title: "Weather Application",
+      title: " Splitr-A Group Expense Management Platform",
       description:
-        "Sophisticated weather app with location-based updates and city-specific search functionality. Features real-time data including temperature, humidity, and wind speed.",
+        "A modern full-stack web application to streamline group expense tracking and settlements. Tailored for travel groups, roommates, and event organizers, the app ensures fair and transparent financial collaboration.",
       icon: Cloud,
-      technologies: ["HTML", "CSS", "JavaScript"],
-      features: ["Location-based weather", "City search", "Real-time data"],
-      githubUrl: "https://github.com/Abishek1254/Weather-App",
+      technologies: ["Next.js", "React", "Tailwind CSS", "Convex", "Clerk", "Inngest" , "ShadcnUI", "Gemini API", "Resend", "Vercel"],
+      features: ["Personalized Reports with Gemini API", "Automated Email Reminders", "Real-time Backend","Secure Authentication"],
+      githubUrl: "https://github.com/Abishek1254/Splitr",
       color: "text-blue-400",
     },
     {

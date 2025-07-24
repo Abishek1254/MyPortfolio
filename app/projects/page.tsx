@@ -7,22 +7,22 @@ import Link from "next/link"
 export default function Projects() {
   const projects = [
     {
-      title: "Weather Application",
+      title: "Splitr-A Group Expense Management Platform",
       description:
-        "A sophisticated weather application that provides users with real-time weather data through two primary functionalities. The app automatically detects user location for immediate weather updates and allows city-specific searches for detailed weather information.",
+        "A modern full-stack web application to streamline group expense tracking and settlements. Tailored for travel groups, roommates, and event organizers, the app ensures fair and transparent financial collaboration .",
       longDescription:
-        "This weather application showcases my ability to work with APIs, handle geolocation services, and create intuitive user interfaces. The app features responsive design principles and provides comprehensive weather data including temperature, humidity, wind speed, and other relevant parameters.",
+        "a responsive and modern full-stack web application to streamline group expense tracking and settlements. Tailored for travel groups, roommates, and event organizers, the app ensures fair and transparent financial collaboration.",
       icon: Cloud,
-      technologies: ["HTML", "CSS", "JavaScript"],
+      technologies: ["Next.js", "React", "Tailwind CSS", "Convex", "Clerk", "Inngest" , "ShadcnUI", "Gemini API", "Resend", "Vercel"],
       features: [
-        "Location-based automatic weather detection",
-        "City-specific weather search functionality",
-        "Real-time weather data display",
-        "Comprehensive weather parameters",
+        "A clean, responsive UI with Tailwind CSS ,modular React components and prebuilt components from ShadcnUI  for intuitive group management, expense logging, and settlement visualization",
+        "Utilizes Clerk for robust authentication, secure user session handling, and seamless sign-in/sign-up flows",
+        "Leverages Convex as a scalable backend for instant data syncing, group creation, and live updates across all users in a group.",
+        "Payment reminders using the Resend API, ensuring timely notifications and accountability for pending dues.",
+        "Uses Google Gemini API to automatically generate personalized monthly spending reports and deliver them via email for improved financial insights",
         "Responsive design for all devices",
-        "Clean and intuitive user interface",
       ],
-      githubUrl: "https://github.com/Abishek1254/Weather-App",
+      githubUrl: "https://github.com/Abishek1254/Splitr",
       liveUrl: "#",
       color: "text-blue-400",
       bgColor: "bg-blue-500/10",
