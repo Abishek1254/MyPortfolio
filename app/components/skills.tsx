@@ -33,7 +33,7 @@ export function Skills() {
     {
       title: "Developer Tools",
       icon: Settings,
-      skills: ["Visual Studio Code", "Git", "GitHub", "Postman","MongoDBCompass"],
+      skills: ["Visual Studio Code", "Git", "GitHub", "Postman","Figma"],
       color: "text-orange-400",
     },
   ]

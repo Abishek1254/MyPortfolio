@@ -45,7 +45,7 @@ export default function About() {
                     </div>
                     <div className="mt-3">
                       <Badge variant="secondary" className="bg-gray-700 text-gray-200 border-gray-600">
-                        Current CGPA: 9.1 (up to 3rd semester)
+                        Current CGPA: 9.06 (up to 4th semester)
                       </Badge>
                     </div>
                   </div>
@@ -112,7 +112,7 @@ export default function About() {
               </CardHeader>
               <CardContent>
                 <div className="space-y-2">
-                  <p className="text-gray-300">• Solved 345+ problems on LeetCode with a contest rating of 1479</p>
+                  <p className="text-gray-300">• Solved 360+ problems on LeetCode with a contest rating of 1479</p>
                   <p className="text-gray-300">• Solved over 300 problems on GeeksforGeeks</p>
                 </div>
               </CardContent>
@@ -128,7 +128,7 @@ export default function About() {
               <CardContent>
                 <div className="space-y-2">
                   <p className="text-gray-300">• District Topper in 10th standard CBSE exams with a 98% score</p>
-                  <p className="text-gray-300">• Maintaining CGPA of 9.1 (up to 3rd semester) at NIT Srinagar</p>
+                  <p className="text-gray-300">• Maintaining CGPA of 9.06 (upto 4th semester) at NIT Srinagar</p>
                 </div>
               </CardContent>
             </Card>
@@ -143,7 +143,7 @@ export default function About() {
               <CardContent>
                 <p className="text-gray-300 mb-3">Event Organiser at Techvaganza NIT Srinagar 2024</p>
                 <div className="space-y-1 text-sm text-gray-400">
-                  <p>• Successfully organized a speaking competition with 30+ participants</p>
+                  <p>• Successfully organized a speaking competition with 50+ participants</p>
                   <p>• Coordinated with a team of 10+ individuals</p>
                   <p>• Collaborated with faculty, students, and external partners</p>
                 </div>

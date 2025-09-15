@@ -11,11 +11,11 @@ export default function Projects() {
       description:
         "A modern full-stack web application to streamline group expense tracking and settlements. Tailored for travel groups, roommates, and event organizers, the app ensures fair and transparent financial collaboration .",
       longDescription:
-        "a responsive and modern full-stack web application to streamline group expense tracking and settlements. Tailored for travel groups, roommates, and event organizers, the app ensures fair and transparent financial collaboration.",
+        "A responsive and modern full-stack web application to streamline group expense tracking and settlements. Tailored for travel groups, roommates, and event organizers, the app ensures fair and transparent financial collaboration.",
       icon: Cloud,
       technologies: ["Next.js", "React", "Tailwind CSS", "Convex", "Clerk", "Inngest" , "ShadcnUI", "Gemini API", "Resend", "Vercel"],
       features: [
-        "A clean, responsive UI with Tailwind CSS ,modular React components and prebuilt components from ShadcnUI  for intuitive group management, expense logging, and settlement visualization",
+        " A clean, responsive UI with Tailwind CSS ,modular React components and prebuilt components from ShadcnUI  for intuitive group management, expense logging, and settlement visualization",
         "Utilizes Clerk for robust authentication, secure user session handling, and seamless sign-in/sign-up flows",
         "Leverages Convex as a scalable backend for instant data syncing, group creation, and live updates across all users in a group.",
         "Payment reminders using the Resend API, ensuring timely notifications and accountability for pending dues.",
@@ -29,48 +29,43 @@ export default function Projects() {
       category: "Web Application",
     },
     {
-      title: "Random Password Generator",
+      title: "StudyNotion- a full stack Edtech platform for learning",
       description:
-        "A robust password generator application that enables users to create secure passwords with customizable lengths from 4 to 20 characters. Features include password strength assessment and clipboard integration for seamless usage.",
+        "  full-stack EdTech platform providing structured online learning for students with courses in C++,Java, AI, ML,  Web design and more.",
       longDescription:
-        "This project demonstrates my understanding of security best practices and user experience design. The application provides users with full control over password composition while educating them about password strength through visual feedback.",
+        "A full-stack EdTech platform providing structured online learning for students with courses in C++, Java, AI, ML, Web Design, and more. It features user authentication, course management, and a clean, responsive UI to ensure a seamless learning experience. The project highlights my ability to design scalable architectures and integrate modern web technologies.",
       icon: Shield,
       technologies: ["HTML", "Tailwind CSS", "JavaScript"],
       features: [
-        "Customizable password length (4-20 characters)",
-        "Selectable character types (uppercase, lowercase, numbers, symbols)",
-        "Real-time password strength assessment",
-        "Three-tier strength categorization (weak, mid, strong)",
-        "One-click clipboard integration",
+        " Implemented secure user authentication and authorization with JWT for seamless sign-up, login, and personalized dashboards.",
+        " Integrated Cloudinary for efficient image and video storage,",
+        "Developed backend APIs with Node.js and Express.js, and used MongoDB as the database",
+        "Enabled a role-based system (Instructor,Student) for efficient content management",
+        "Used MongoDB as the database for handling courses, users, and progress tracking. ",
         "Modern UI with Tailwind CSS",
       ],
-      githubUrl: "https://github.com/Abishek1254/Password-Generator",
+      githubUrl: "https://github.com/Abishek1254/StudyNotion-an-Edtech-platform",
       liveUrl: "#",
       color: "text-green-400",
       bgColor: "bg-green-500/10",
-      category: "Utility Tool",
+       category: "Web Application",
     },
     {
-      title: "Razorpay Clone",
+      title: "Random Password Generator",
       description:
         "A pixel-perfect, fully responsive clone of Razorpay's landing page built using HTML, CSS, and Tailwind CSS. The project focuses on modern UI components, advanced layouts, and smooth user interactions.",
       longDescription:
-        "This project showcases my ability to recreate complex, professional designs with attention to detail. It demonstrates proficiency in modern CSS techniques, responsive design principles, and the effective use of CSS frameworks.",
+        "Robust password generator with customizable composition, strength assessment, and clipboard integration. Supports passwords from 4-20 characters.",
       icon: CreditCard,
       technologies: ["HTML", "CSS", "Tailwind CSS"],
       features: [
-        "Pixel-perfect design replication",
-        "Fully responsive across all devices",
-        "Modern flex and grid layouts",
-        "Smooth hover effects and transitions",
-        "Optimized performance and accessibility",
-        "Clean, maintainable code structure",
+        "Customizable composition", "Strength assessment", "Clipboard integration", "Clean and intuitive UI", "Responsive design for all devices"
       ],
-      githubUrl: "https://github.com/Abishek1254/Razorpay-Clone",
+      githubUrl: "https://github.com/Abishek1254/Password-Generator",
       liveUrl: "#",
       color: "text-purple-400",
       bgColor: "bg-purple-500/10",
-      category: "UI Clone",
+       category: "Web Application",
     },
   ]
 

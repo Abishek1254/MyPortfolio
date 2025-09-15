@@ -48,10 +48,10 @@ export function Achievements() {
   ]
 
   const stats = [
-    { number: "345+", label: "LeetCode Problems" },
+    { number: "360+", label: "LeetCode Problems" },
     { number: "300+", label: "GeeksforGeeks Problems" },
     { number: "1479", label: "Contest Rating" },
-    { number: "9.1", label: "Current CGPA" },
+    { number: "9.06", label: "Current CGPA" },
   ]
 
   return (

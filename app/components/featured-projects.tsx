@@ -17,6 +17,16 @@ export function FeaturedProjects() {
       color: "text-blue-400",
     },
     {
+      title: "Study Notion- a full stack Edtech platform for learning",
+      description:
+        " Built a full-stack EdTech platform providing structured online learning for students with courses in C++ ,Java, AI, ML,  Web design and more. ",
+      icon: CreditCard,
+      technologies: ["React", "Javascript","Node.js", "Express.js", "MongoDB", "Tailwind CSS","CSS"],
+      features: ["Role-based system (Instructor,Student)", " Cloudinary for media management,", "Secure user authentication using JWT","Backend APIs with Node.js and Express.js"],
+      githubUrl: "https://github.com/Abishek1254/StudyNotion-an-Edtech-platform",
+      color: "text-purple-400",
+    },
+    {
       title: "Random Password Generator",
       description:
         "Robust password generator with customizable composition, strength assessment, and clipboard integration. Supports passwords from 4-20 characters.",
@@ -25,17 +35,8 @@ export function FeaturedProjects() {
       features: ["Customizable composition", "Strength assessment", "Clipboard integration"],
       githubUrl: "https://github.com/Abishek1254/Password-Generator",
       color: "text-green-400",
-    },
-    {
-      title: "Razorpay Clone",
-      description:
-        "Pixel-perfect responsive clone of Razorpay's landing page with modern UI components, flex/grid layouts, and smooth hover effects.",
-      icon: CreditCard,
-      technologies: ["HTML", "CSS", "Tailwind CSS"],
-      features: ["Responsive design", "Modern UI", "Hover effects"],
-      githubUrl: "https://github.com/Abishek1254/Razorpay-Clone",
-      color: "text-purple-400",
-    },
+    }
+    
   ]
 
   return (
