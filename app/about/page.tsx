@@ -112,7 +112,7 @@ export default function About() {
               </CardHeader>
               <CardContent>
                 <div className="space-y-2">
-                  <p className="text-gray-300">• Solved 360+ problems on LeetCode with a contest rating of 1479</p>
+                  <p className="text-gray-300">• Solved 370+ problems on LeetCode with a contest rating of 1478</p>
                   <p className="text-gray-300">• Solved over 300 problems on GeeksforGeeks</p>
                 </div>
               </CardContent>
@@ -167,7 +167,7 @@ export default function About() {
               Currently pursuing my Bachelor's in Information Technology at NIT Srinagar, I've been fortunate to learn
               from some of the best minds in the field while also challenging myself through competitive programming and
               real-world projects. My academic journey has been marked by consistent excellence, maintaining a CGPA of
-              9.1 while actively participating in coding competitions and technical events.
+              9.06 while actively participating in coding competitions and technical events.
             </p>
             <p className="text-lg leading-relaxed mb-6">
               Beyond academics, I believe in the power of community and collaboration. As an Event Organiser at

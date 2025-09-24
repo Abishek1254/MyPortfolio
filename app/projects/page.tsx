@@ -35,7 +35,7 @@ export default function Projects() {
       longDescription:
         "A full-stack EdTech platform providing structured online learning for students with courses in C++, Java, AI, ML, Web Design, and more. It features user authentication, course management, and a clean, responsive UI to ensure a seamless learning experience. The project highlights my ability to design scalable architectures and integrate modern web technologies.",
       icon: Shield,
-      technologies: ["HTML", "Tailwind CSS", "JavaScript"],
+      technologies: ["React", "JavaScript","Tailwind CSS", "Node.js", "Express.js", "MongoDB", "Cloudinary"],
       features: [
         " Implemented secure user authentication and authorization with JWT for seamless sign-up, login, and personalized dashboards.",
         " Integrated Cloudinary for efficient image and video storage,",

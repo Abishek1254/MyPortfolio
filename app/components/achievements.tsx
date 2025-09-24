@@ -24,7 +24,7 @@ export function Achievements() {
     {
       icon: Code,
       title: "Competitive Programming",
-      description: "345+ LeetCode problems solved with 1479 contest rating",
+      description: "370+ LeetCode problems solved with 1478 contest rating",
       category: "Programming",
       color: "text-blue-400",
       bgColor: "bg-blue-500/10",
@@ -32,7 +32,7 @@ export function Achievements() {
     {
       icon: GraduationCap,
       title: "Academic Excellence",
-      description: "District Topper in 10th CBSE (98%) • CGPA 9.1 (3rd semester)",
+      description: "District Topper in 10th CBSE (98%) • CGPA 9.06 (upto 4th semester)",
       category: "Academic",
       color: "text-green-400",
       bgColor: "bg-green-500/10",
@@ -48,9 +48,9 @@ export function Achievements() {
   ]
 
   const stats = [
-    { number: "360+", label: "LeetCode Problems" },
+    { number: "370+", label: "LeetCode Problems" },
     { number: "300+", label: "GeeksforGeeks Problems" },
-    { number: "1479", label: "Contest Rating" },
+    { number: "1478", label: "Contest Rating" },
     { number: "9.06", label: "Current CGPA" },
   ]
 
