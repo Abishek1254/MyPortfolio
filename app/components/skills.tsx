@@ -27,7 +27,7 @@ export function Skills() {
     {
       title: "Core Concepts",
       icon: Database,
-      skills: ["Data Structures", "Algorithms", "OOP", "DBMS", "Operating Systems", "SQL"],
+      skills: ["Data Structures", "Algorithms", "OOP", "DBMS", "Operating Systems", "Data Communication", "SQL"],
       color: "text-purple-400",
     },
     {

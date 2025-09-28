@@ -16,7 +16,7 @@ export function Achievements() {
     {
       icon: Trophy,
       title: "CODEMANIA Runner-Up",
-      description: "Secured 2nd place in intra-NIT coding competition against 50+ students",
+      description: "Secured 2nd place in intra-NIT coding competing against 50+ students from the college",
       category: "Competition",
       color: "text-yellow-400",
       bgColor: "bg-yellow-500/10",
@@ -24,7 +24,7 @@ export function Achievements() {
     {
       icon: Code,
       title: "Competitive Programming",
-      description: "370+ LeetCode problems solved with 1478 contest rating",
+      description: "370+ problems on Leetcode , 300+ problems on GFG solved",
       category: "Programming",
       color: "text-blue-400",
       bgColor: "bg-blue-500/10",
@@ -40,7 +40,7 @@ export function Achievements() {
     {
       icon: Users,
       title: "Event Organiser",
-      description: "Successfully organized speaking competition at Techvaganza NIT Srinagar 2024",
+      description: "Successfully led and organized a speaking competition at Techvaganza NIT Srinagar 2024 with 50+ participants",
       category: "Leadership",
       color: "text-purple-400",
       bgColor: "bg-purple-500/10",
