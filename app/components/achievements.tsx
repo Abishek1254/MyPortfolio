@@ -24,7 +24,7 @@ export function Achievements() {
     {
       icon: Code,
       title: "Competitive Programming",
-      description: "370+ problems on Leetcode , 300+ problems on GFG solved",
+      description: "470+ problems on Leetcode with a contest rating over 1500 and 300+ problems on GeeksforGeeks",
       category: "Programming",
       color: "text-blue-400",
       bgColor: "bg-blue-500/10",
@@ -48,9 +48,9 @@ export function Achievements() {
   ]
 
   const stats = [
-    { number: "370+", label: "LeetCode Problems" },
+    { number: "470+", label: "LeetCode Problems" },
     { number: "300+", label: "GeeksforGeeks Problems" },
-    { number: "1478", label: "Contest Rating" },
+    { number: "1500+", label: "Contest Rating" },
     { number: "9.06", label: "Current CGPA" },
   ]
 

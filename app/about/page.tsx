@@ -97,7 +97,7 @@ export default function About() {
                   Secured 2nd place in an intra-NIT coding competition competing against 50+ students from the college.
                 </p>
                 <p className="text-sm text-gray-400">
-                  Involved solving general programming questions as well as problems related to Data Structures and
+                  Involved solving general programming questions along with problems related to Data Structures and
                   Algorithms.
                 </p>
               </CardContent>
@@ -112,7 +112,7 @@ export default function About() {
               </CardHeader>
               <CardContent>
                 <div className="space-y-2">
-                  <p className="text-gray-300">• Solved 370+ problems on LeetCode with a contest rating of 1478</p>
+                  <p className="text-gray-300">• Solved 470+ problems on LeetCode with a contest rating over 1500</p>
                   <p className="text-gray-300">• Solved over 300 problems on GeeksforGeeks</p>
                 </div>
               </CardContent>

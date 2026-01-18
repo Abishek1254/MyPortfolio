@@ -15,7 +15,7 @@ export function Skills() {
     {
       title: "Programming Languages",
       icon: Code,
-      skills: ["C++", "C", "JavaScript","Java"],
+      skills: ["C++", "C", "JavaScript"],
       color: "text-blue-400",
     },
     {
