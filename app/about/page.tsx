@@ -112,8 +112,8 @@ export default function About() {
               </CardHeader>
               <CardContent>
                 <div className="space-y-2">
-                  <p className="text-gray-300">• Solved 470+ problems on LeetCode with a contest rating over 1500</p>
-                  <p className="text-gray-300">• Solved over 300 problems on GeeksforGeeks</p>
+                  <p className="text-gray-300">• Solved 550+ problems on LeetCode with a contest rating of 1600+</p>
+                  <p className="text-gray-300">• Solved over 350 problems on GeeksforGeeks</p>
                 </div>
               </CardContent>
             </Card>
