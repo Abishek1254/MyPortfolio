@@ -74,7 +74,7 @@ export function Header() {
                 }`}
                 onClick={() => setIsMenuOpen(false)}
               >
-                {item.label}
+              {item.label}
               </Link>
             ))}
           </nav>
